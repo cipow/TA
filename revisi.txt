@@ -1,0 +1,3 @@
+- pada judul ditambahkan "* Arsitektur REST"
+- jarak spasi 1.5 pada daftar isi
+- pada rumusan masalah dan tujuan masalah angka dihilangkan
